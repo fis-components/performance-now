@@ -1,0 +1,10 @@
+{
+    "name": "performance-now",
+    "description": "Implements performance.now (based on process.hrtime).",
+    "repos": "https://github.com/meryn/performance-now.git",
+    "main": "lib/performance-now.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.2.0"
+}
